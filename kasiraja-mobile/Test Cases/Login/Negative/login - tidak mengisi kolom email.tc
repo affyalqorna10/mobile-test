@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login - tidak mengisi kolom email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5da2ef6-f705-4ae4-be4f-a86476a57974</testCaseGuid>
+</TestCaseEntity>
